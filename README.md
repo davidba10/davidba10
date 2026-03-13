@@ -1,17 +1,28 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=David%20Beltrán%20Antolín&fontSize=40&fontColor=ffffff">
+</p>
+
 <h1 align="center">👋 Bienvenido a mi perfil</h1>
 
-<h3 align="center">Soy David Beltrán Antolín</h3>
+<h3 align="center">Ingeniero de Inteligencia Artificial · Data Scientist</h3>
 
 <p align="center">
-Ingeniero de Inteligencia Artificial · Data Scientist · Construyendo sistemas de IA desde primeros principios
+Construyendo sistemas de inteligencia artificial desde primeros principios
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Data+Scientist;Machine+Learning+Engineer;Building+AI+Systems">
 </p>
 
 ---
 
-🎓 Graduado en **Física**  
-🎓 Máster en **Data Science**  
-🤖 Especializado en **Inteligencia Artificial aplicada y automatización**  
-🧠 Interesado en **Machine Learning, Deep Learning, RL y sistemas de agentes**
+## 🎓 Sobre mí
+
+- 🎓 Graduado en **Física**
+- 🎓 Máster en **Data Science**
+- 🤖 Especializado en **Inteligencia Artificial aplicada**
+- 🧠 Interesado en **Machine Learning, Deep Learning y RL**
+- ⚙️ Desarrollo de **sistemas de agentes y automatización**
 
 ---
 
@@ -39,7 +50,6 @@ Ingeniero de Inteligencia Artificial · Data Scientist · Construyendo sistemas 
 
 ```python
 class DavidBeltran:
-
 
     background = [
         "Physics",
