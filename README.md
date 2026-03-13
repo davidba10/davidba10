@@ -40,7 +40,6 @@ Ingeniero de Inteligencia Artificial · Data Scientist · Construyendo sistemas 
 ```python
 class DavidBeltran:
 
-    pronouns = "he/him"
 
     background = [
         "Physics",
