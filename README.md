@@ -1,135 +1,68 @@
-# David Beltrán Antolín
+<h1 align="center">👋 Bienvenido a mi perfil</h1>
 
-## Ingeniero de Inteligencia Artificial | Data Scientist | Construyendo sistemas de IA desde primeros principios
+<h3 align="center">Soy David Beltrán Antolín</h3>
 
-Graduado en Física y Máster en Data Science.  
-Trabajo en el desarrollo de sistemas de inteligencia artificial, automatización de procesos y agentes de IA aplicados a entornos empresariales.
-
-Mi enfoque combina **fundamentos matemáticos, ingeniería de software y desarrollo de sistemas de IA**, priorizando la comprensión profunda de los modelos mediante implementaciones desde cero.
-
----
-
-# Áreas de especialización
-
-• Deep Learning  
-• Machine Learning  
-• Reinforcement Learning  
-• Sistemas de agentes de IA  
-• Automatización con LLMs  
-• Ingeniería de datos y pipelines  
+<p align="center">
+Ingeniero de Inteligencia Artificial · Data Scientist · Construyendo sistemas de IA desde primeros principios
+</p>
 
 ---
 
-# Experiencia
-
-## Desarrollador de agentes de IA / Consultor Informático  
-Incentro — 2025 - Actualidad
-
-- Desarrollo de soluciones de automatización empresarial utilizando **n8n**  
-- Integración de **APIs y servicios externos en flujos de trabajo automatizados**
-- Diseño e implementación de **agentes de inteligencia artificial con LangGraph**
-- Orquestación de tareas y lógica de decisión en sistemas de IA
-
-## Investigación aplicada en IA y optimización cuántica  
-Centro Tecnológico de Componentes (CTC)
-
-- Desarrollo del Trabajo Fin de Máster en optimización con **Python y Qiskit**
-- Aplicación de técnicas de **Quantum Machine Learning**
+🎓 Graduado en **Física**  
+🎓 Máster en **Data Science**  
+🤖 Especializado en **Inteligencia Artificial aplicada y automatización**  
+🧠 Interesado en **Machine Learning, Deep Learning, RL y sistemas de agentes**
 
 ---
 
-# Proyectos destacados
+## 🌐 Conecta conmigo
 
-## Sistema de diferenciación automática en Python
-Implementación de un motor de autograd inspirado en Micrograd.
+<p align="center">
 
-Características principales:
+<a href="https://www.linkedin.com/in/david-beltr%C3%A1n-antol%C3%ADn-9b4123308/">
+<img src="https://img.shields.io/badge/LinkedIn-David%20Beltrán-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
 
-- Construcción de grafos computacionales dinámicos
-- Implementación manual del algoritmo de backpropagation
-- Cálculo automático de gradientes
-- Base para construir frameworks de deep learning
+<a href="mailto:david.bltrnant@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail">
+</a>
 
----
+<a href="https://github.com/davidba10">
+<img src="https://img.shields.io/badge/GitHub-davidba10-181717?style=for-the-badge&logo=github">
+</a>
 
-## Implementación de redes neuronales desde cero
-
-Construcción completa de arquitecturas de redes neuronales sin utilizar frameworks de deep learning.
-
-Incluye:
-
-- Redes neuronales densas
-- Redes convolucionales
-- Redes recurrentes
-- Implementación manual de backpropagation
-- Entrenamiento desde cero
+</p>
 
 ---
 
-# Stack tecnológico
+# 🧠 Conóceme
 
-## Lenguajes
-Python  
-R  
+```python
+class DavidBeltran:
 
-## Machine Learning
-PyTorch  
-NumPy  
-Scikit-learn  
+    pronouns = "he/him"
 
-Arquitecturas utilizadas:
+    background = [
+        "Physics",
+        "Data Science",
+        "Artificial Intelligence"
+    ]
 
-- CNN
-- RNN
-- LSTM
-- Transformers
-- Random Forest
+    interests = [
+        "Machine Learning",
+        "Deep Learning",
+        "Reinforcement Learning",
+        "AI Agents",
+        "AI Systems Engineering"
+    ]
 
-## Bases de datos
-MySQL  
-PostgreSQL  
-SQLite  
+    tools = [
+        "Python",
+        "PyTorch",
+        "NumPy",
+        "Scikit-Learn",
+        "LangGraph",
+        "n8n"
+    ]
 
-## Sistemas y herramientas
-
-APIs  
-Automatización  
-Data mining  
-Sistemas de agentes de IA  
-
----
-
-# Filosofía de trabajo
-
-Creo que la mejor forma de entender la inteligencia artificial es construirla.
-
-No limitarse a utilizar frameworks, sino comprender los principios matemáticos y computacionales que hacen funcionar los modelos.
-
-Este enfoque permite diseñar sistemas más robustos, interpretables y adaptables a problemas reales.
-
----
-
-# Formación
-
-Máster en Data Science  
-Universidad Internacional Menéndez Pelayo – Universidad de Cantabria
-
-Grado en Física  
-Universidad de Oviedo
-
----
-
-# Certificaciones
-
-IBM Data Science Professional Certificate  
-AI Agents Fundamentals – Hugging Face  
-Fundamentals of MCP – Hugging Face  
-Relational Database – FreeCodeCamp  
-Data Cleaning – Kaggle  
-
----
-
-# Contacto
-
-LinkedIn  
-https://www.linkedin.com/in/david-beltr%C3%A1n-antol%C3%ADn-9b4123308/
+    philosophy = "La mejor forma de entender la IA es construirla"
